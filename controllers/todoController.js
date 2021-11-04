@@ -1,4 +1,4 @@
-const todoModel = require('../models/todoModels');
+const todoModel = require('../models/schema');
 
 const getAll = async (_req, res) => {
 try {
